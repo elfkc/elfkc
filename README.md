@@ -6,14 +6,27 @@
 
 ### 👋 Hakkımda
 
-Merhaba! Ben **Elif Koç**. Hacettepe Üniversitesi **Geomatik Mühendisliği** öğrencisiyim ve kendimi **kuantum teknolojileri** ile **GNSS (Küresel Navigasyon Uydu Sistemleri)** alanlarında geliştirmeye odaklanmış durumdayım. Bu iki alanın kesişiminde, geleceğin konumlama ve iletişim teknolojilerine katkı sağlamak istiyorum.
+Merhaba! Ben **Elif Koç**. Hacettepe Üniversitesi **Geomatik Mühendisliği** öğrencisiyim; mühendislik tarafında **QGIS**, **Netcad** ve **Python** ile altyapı/konum verisi projeleri üretiyor, bunun yanında **kuantum teknolojileri** ve **GNSS (Küresel Navigasyon Uydu Sistemleri)** alanlarında kendimi geliştiriyorum. Amacım, coğrafi veri mühendisliği ile kuantum/GNSS teknolojilerini bir araya getirebilen bir mühendis olmak.
 
-- 🔭 Şu anda **kuantum hesaplama** ve **GNSS** üzerine bilgi ve deneyimimi derinleştiriyorum
+- 🛠️ **Geomatik mühendisliği** projelerimde QGIS ve Netcad ile üretim yapıyor, Python ile bu süreçleri otomatikleştiriyorum
+- 🔭 Aynı zamanda **kuantum hesaplama** ve **GNSS** üzerine bilgi ve deneyimimi derinleştiriyorum
 - 🎓 **QTürkiye** iş birliğiyle **QBronze** eğitiminde **eğitmenlik** yapıyorum
 - 🚀 **QHacettepe** kuantum topluluğunun **kurucu ortağı**yım ve topluluğun **ilk başkanlığı**nı üstlendim
 - 🌱 Kuantum programlama, Qiskit ve kuantum algoritmaları üzerine içerik üretmeye devam ediyorum
 - 📍 Ankara, Türkiye
-
+---
+### 🗺️ Geomatik Mühendisliği & Yazılım
+ 
+Geomatik tarafında sadece teoride kalmıyorum — QGIS ve Netcad ile ürettiğim projeleri Python ile otomatikleştirip GitHub'a taşıyorum.
+ 
+| Alan | Kullandığım Araç/Dil |
+|---|---|
+| 🌍 CBS (Coğrafi Bilgi Sistemleri) | QGIS |
+| 📐 Harita & Altyapı Projelendirme | Netcad |
+| 🐍 Otomasyon & Veri İşleme | Python |
+ 
+**Öne Çıkan Proje:** [`usta_dogalgaz_altyapi_projesi`](https://github.com/elfkc/usta_dogalgaz_altyapi_projesi) — Doğalgaz altyapı verilerini işlemek için geliştirdiğim Python tabanlı proje. Geomatik mühendisliği bilgimi yazılım tarafına taşıdığım ilk somut örneklerden biri.
+ 
 ---
 
 ### 🧑‍🏫 Eğitmenlik — QBronze @ QTürkiye
@@ -53,19 +66,22 @@ QTürkiye bünyesinde yürütülen **QBronze** atölyesinde aşağıdaki konular
 ### 🧰 Araçlar & Teknolojiler
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/Netcad-005A9C?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 </div>
 
 ---
 
 ### 📊 GitHub İstatistikleri
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elfkc&show_icons=true&theme=tokyonight&hide_border=true" alt="Elif's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfkc&theme=tokyonight&hide_border=true" alt="Elif's GitHub streak" height="165"/> </div>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=elfkc&show_icons=true&theme=tokyonight&hide_border=true" alt="Elif's GitHub stats" height="165"/>
+<sub>Not: Bu kart, `github-readme-stats` projesinin aktif olarak sürdürülen devamı olan <a href="https://github.com/stats-organization/github-stats-extended">github-stats-extended</a> servisini kullanır. Görsel yine de yüklenmezse README'yi kaydettikten sonra birkaç dakika bekleyip sayfayı yenile — servis bazen ilk istekte "soğuk başlangıç" yaşıyor.</sub>
+</div>
 
 ---
 
