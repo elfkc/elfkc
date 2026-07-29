@@ -80,7 +80,7 @@ QTürkiye bünyesinde yürütülen **QBronze** atölyesinde aşağıdaki konular
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=elfkc&show_icons=true&theme=tokyonight&hide_border=true" alt="Elif's GitHub stats" height="165"/>
-<sub>Not: Bu kart, `github-readme-stats` projesinin aktif olarak sürdürülen devamı olan <a href="https://github.com/stats-organization/github-stats-extended">github-stats-extended</a> servisini kullanır. Görsel yine de yüklenmezse README'yi kaydettikten sonra birkaç dakika bekleyip sayfayı yenile — servis bazen ilk istekte "soğuk başlangıç" yaşıyor.</sub>
+<sub>Not: Bu kart, `github-readme-stats` projesinin aktif olarak sürdürülen devamı olan <a href="https://github.com/stats-organization/github-stats-extended">github-stats-extended</a></sub>
 </div>
 
 ---
