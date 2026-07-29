@@ -1,6 +1,7 @@
 # Merhaba, Ben Elif! 👋
 
 **Hacettepe Üniversitesi'nde Geomatik Mühendisliği Öğrencisi | Kuantum Teknolojileri & Web CBS Geliştiricisi**
+![Kuantum GNSS Mimarisi ve Uygulama Alanları](attachment:image_10.png)
 
 Uydu navigasyon sistemleri, mekansal veriler ve kuantum teknolojilerinin kesişiminde akademik araştırmalar ve projeler geliştiriyorum. Kuantum algoritmalarının uydu teknolojilerine entegrasyonu ve kuantum/rölativistik jeodezi en büyük ilgi alanlarım.
 
