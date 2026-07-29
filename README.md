@@ -65,12 +65,7 @@ QTürkiye bünyesinde yürütülen **QBronze** atölyesinde aşağıdaki konular
 
 ### 📊 GitHub İstatistikleri
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=elfkc&show_icons=true&theme=tokyonight&hide_border=true" alt="Elif's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elfkc&theme=tokyonight&hide_border=true" alt="Elif's GitHub streak" height="165"/>
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elfkc&show_icons=true&theme=tokyonight&hide_border=true" alt="Elif's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfkc&theme=tokyonight&hide_border=true" alt="Elif's GitHub streak" height="165"/> </div>
 
 ---
 
