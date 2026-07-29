@@ -1,4 +1,4 @@
-<div align="center"> <!-- Animasyonlu başlık (typing effect) --> <a href="https://github.com/elfkc"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Elif+K%C3%BC%C3%A7%C3%BC%C3%BCk%C3%BCk;Geomatik+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Kuantum+Bilgisayar+E%C4%9Fitmeni+%40QT%C3%BCrkiye;QHacettepe+Kurucu+Ba%C5%9Fkan%C4%B1;GNSS+%26+Kuantum+Teknolojileri+Meraklisi" alt="Typing SVG" /> </a> </div>
+<div align="center"> <!-- Animasyonlu başlık (typing effect) --> <a href="https://github.com/elfkc"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Elif+KOC;Geomatik+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Kuantum+Bilgisayar+E%C4%9Fitmeni+%40QT%C3%BCrkiye;QHacettepe+Kurucu+Ba%C5%9Fkan%C4%B1;GNSS+%26+Kuantum+Teknolojileri+Meraklisi" alt="Typing SVG" /> </a> </div>
 
 </div>
 
